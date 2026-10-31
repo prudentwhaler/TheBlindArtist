@@ -1,0 +1,12 @@
+{
+	"id": "goingblind",
+	"name": "Going Blind",
+	"author": ["TheOneGoofAli"],
+	"description": "Hides a lot of tooltips while the game is running.",
+	"prefix": "goblind",
+	"main_file": "main.lua",
+	"priority": 50,
+	"badge_colour": "fd9712",
+	"version": "1.0.0",
+	"icon_path": "modicon.png",
+}
